@@ -2,7 +2,6 @@
 layout: page
 Title: "Éstos son nuestros principios"
 Subtitle: "Y no tenemos otros"
-Bigimg:
 ---
 
 > La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas. 
