@@ -4,7 +4,6 @@ bigimg: "/img/big-imgs/portadaweb.png"
 use-site-title: false
 ---
 
-## ¡Hola!
 
 Somos Ampersand, una asociación de jóvenes con sede en Madrid. Somos unos amigos que nos hemos juntado para desarrollar nuestras ideas, aficiones e intereses. Aunque antes ya funcionábamos de manera informal, nos constituímos como asociación en diciembre de 2018.
 
