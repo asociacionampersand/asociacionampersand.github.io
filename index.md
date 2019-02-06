@@ -1,7 +1,7 @@
 ---
 title: Asociación Ampersand
 bigimg: "/img/big-imgs/portadaweb.png"
-use-site-title: false
+use-site-title: true
 ---
 
 ## ¡Hola!
