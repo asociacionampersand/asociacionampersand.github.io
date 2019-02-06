@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 bigimg: /img/portada_web.png
 ---
 
