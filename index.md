@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: minimal
 bigimg: /img/portada_web.png
 ---
 
