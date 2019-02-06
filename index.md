@@ -1,7 +1,7 @@
 ---
 title: 
 bigimg: "/img/big-imgs/portadaweb.png"
-use-site-title: true
+use-site-title: false
 ---
 
 ## ¡Hola!
