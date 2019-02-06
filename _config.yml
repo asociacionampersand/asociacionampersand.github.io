@@ -24,8 +24,8 @@ description: Somos jóvenes que quieren explorar otras ideas, otros puntos de vi
 # List of links in the navigation bar
 navbar-links:
   Sobre nosotros:
-  	- ¿Qué hacemos?: ""
-    - ¿Quiénes somos?: ""
+  - ¿Qué hacemos?: ""
+  - ¿Quiénes somos?: ""
   Blog: ""
   Contacto: ""
 
