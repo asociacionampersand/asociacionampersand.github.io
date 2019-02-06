@@ -1,6 +1,6 @@
 ---
 layout: page
-bigimg: /img/portada_web.png
+bigimg: "/img/big-imgs/portadaweb.png"
 ---
 
 ## ¡Hola!
