@@ -24,8 +24,8 @@ description: Somos jóvenes que quieren explorar otras ideas, otros puntos de vi
 # List of links in the navigation bar
 navbar-links:
   Sobre nosotros:
-  - ¿Qué hacemos?: ""
-  - ¿Quiénes somos?: ""
+  - Principios: "principios"
+  # - ¿Quiénes somos?: ""
   Blog: "blog"
   Contacto: ""
 
@@ -50,7 +50,7 @@ link-col: "0045aa"
 hover-col: "#0383f4"
 footer-col: "#ffcc00"
 footer-text-col: "#0045aa"
-footer-link-col: "#0383f4"
+footer-link-col: "#0045aa"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
