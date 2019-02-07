@@ -1,11 +1,11 @@
 ---
-Title: "Éstos son nuestros principios"
-Subtitle: "Y no tenemos otros"
+layout: page
+title: "Éstos son nuestros principios"
+subtitle: "Y no tenemos otros"
 ---
 
-{: .box-note}
-> La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas. 
-> - Rafael Santandreu
+
+### {: .box-note} ***La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas.*** - Rafael Santandreu
 
 ## Visión
 
