@@ -4,7 +4,7 @@ Title: Política de cookies
 bigimg: "/img/big-imgs/cookies.jpg"
 ---
 
-## Para que las páginas web y aplicaciones funcionen adecuadamente, a veces son instalados pequeños ficheros de datos en los dispositivos de los usuarios, conocidos como cookies.  
+**Para que las páginas web y aplicaciones funcionen adecuadamente, a veces son instalados pequeños ficheros de datos en los dispositivos de los usuarios, conocidos como cookies.  
 
 ### ¿Qué son las cookies?
 
