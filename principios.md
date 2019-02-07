@@ -5,7 +5,7 @@ subtitle: "Y no tenemos otros"
 ---
 
 {: .box-note}
-### ***La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas.***
+***La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas.***
 - Rafael Santandreu
 
 ## Visión
@@ -18,13 +18,16 @@ Nuestro propósito es proporcionar conocimientos y experiencias a la comunidad q
 
 ## Valores
 
+
 - Ciudadanía activa.
 - Democracia participativa.
 - Respeto y promoción de los Derechos Humanos.
 - Interculturalidad
 - Otros valores europeos como diversidad, unidad y tolerancia.
 
+
 ## Objetivos
+
 
 - Proporcionar experiencias de aprendizaje intercultural en el campo de la educación no formal.
 - Desarrollar la participación ciudadana en los más jóvenes, enseñando las ventajas de una ciudadanía activa para toda la sociedad.
