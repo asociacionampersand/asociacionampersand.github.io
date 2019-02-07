@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: "Política de cookies"
+Title: Política de cookies
 bigimg: "/img/big-imgs/cookies.jpg"
 ---
 
