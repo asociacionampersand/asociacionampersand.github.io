@@ -5,8 +5,8 @@ subtitle: "Y no tenemos otros"
 ---
 
 {: .box-note}
-***La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas.***
-- Rafael Santandreu
+> ***La pasión y la diversión son las fuerzas más poderosas a la hora de conseguir cosas.***
+> Rafael Santandreu
 
 ## Visión
 
