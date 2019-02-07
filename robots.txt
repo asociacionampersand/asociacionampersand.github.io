@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /privacidad.md/
+Disallow: /avisolegal.md/
+Disallow: /cookies.md/
+Allow: /
