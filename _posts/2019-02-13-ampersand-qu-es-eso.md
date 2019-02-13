@@ -7,7 +7,7 @@ tags:
   - Sobre la Asociación
 permalink: /blog/significado-ampersand/
 date: '2019-02-12'
-share-imgs: "/img/share-imgs/2019-02-13-significado-ampersand.png"
+share-img: "/img/share-imgs/2019-02-13-significado-ampersand.png"
 bigimg: "/img/big-imgs/blog-nophoto.jpg"
 ---
 
