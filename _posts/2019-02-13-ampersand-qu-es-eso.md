@@ -35,7 +35,7 @@ Esta palabra llegó al castellano desde el latín. Pero para nosotros es algo su
 
 Entonces, imaginad un redoble de tambores, porque... Ésto es un Ampersand:
 
-![asociacion ampersand](/img/_posts/2019-02-13-significado-ampersand-2.png)
+![asociacion ampersand](https://asociacionampersand.github.io/img/_posts/2019-02-13-significado-ampersand-2.png)
 
 Ese símbolo. Ese símbolo que, en inglés, se llama Ampersand. Es decir, '&'. Hasta que caes en la relación entre el nombre y el símbolo cuesta asociarlos. Pero después lo ves en todas partes. En Ampersand creemos que siempre hay espacio para algo más, y siempre hay espacio para alguien más. 
 
