@@ -2,7 +2,7 @@
 layout: post
 title: ¡Hola, mundo!
 subtitle: Siempre hay que empezar por algún lado
-image: /img/hello_world.jpeg
+thumbnail: /img/hello_world.jpeg
 ---
 
 #### ¡Hola, esto es el blog de la Asociación Ampersand!
