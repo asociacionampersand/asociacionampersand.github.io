@@ -1,12 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Ampersand... ¿Qué es eso?
 subtitle: Sabemos que os estábais haciendo esa pregunta. Aquí la respuesta
 tags:
   - Sobre la Asociación
 permalink: /blog/significado-ampersand/
 date: '2019-02-12'
+share-imgs: /img/share-imgs/2019-02-13-significado-ampersand.png
+big-imgs: /img/big-imgs/blog-nophoto.jpg
 ---
 
 Cuando la gente conoce la asociación, además de alegrarse, nos pregunta por el nombre. Ampersand... ¿qué es eso? ¿qué significa? ¿cómo se acentúa? La verdad es que nos gusta ser un poco misteriosos: ahí es donde está la gracia del nombre. Además, es aún más gracioso cuando se trata una cosa que, casi con toda seguridad, ves a diario.
@@ -30,5 +32,8 @@ Sabéis ya de lo que estamos hablando, ¿verdad? Bueno, si no es el caso, aquí 
 Esta palabra llegó al castellano desde el latín. Pero para nosotros es algo supérflua, porque nuestra 'y' es mucho más eficiente (es decir, que hace exactamente lo mismo en menos espacio). Por eso, nosotros, los hispanohablantes, le dimos otro uso en el pasado, como abreviación de la palabra *etcétera* (que ahora abreviamos como 'etc')
 
 
-¿Ya lo tenéis?
+¿Ya lo tenéis? ¿No? Ésto es un Ampersand:
 
+![asociacion ampersand]({{site.baseurl}}//img/_posts/2019-02-13-significado-ampersand-2.png       )
+
+Nuestro nombre viene de la palabra que, en inglés, define al símbolo '&'. En Ampersand creemos que siempre hay espacio para algo más, y siempre hay espacio para alguien más. Ampersand & tú ¿Te vienes? 
