@@ -18,7 +18,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Publicado el {% assign m = page.date | date: "%-m" %}
+      Publicado el {% assign m = post.date | date: "%-m" %}
 {{ page.date | date: "%-d" }} de
 {% case m %}
   {% when '1' %}enero
