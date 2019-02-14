@@ -19,7 +19,7 @@ use-site-title: true
 
     <p class="post-meta">
       Publicado el {% assign m = post.date | date: "%-m" %}
-{{ page.date | date: "%-d" }} de
+{{ post.date | date: "%-d" }} de
 {% case m %}
   {% when '1' %}enero
   {% when '2' %}febrero
@@ -34,7 +34,7 @@ use-site-title: true
   {% when '11' %}noviembre
   {% when '12' %}diciembre
 {% endcase %}
-de {{ page.date | date: "%Y" }}
+de {{ post.date | date: "%Y" }}
     </p>
 
     <div class="post-entry-container">
