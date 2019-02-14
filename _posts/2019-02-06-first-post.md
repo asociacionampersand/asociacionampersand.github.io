@@ -2,7 +2,7 @@
 layout: post
 title: ¡Hola, mundo!
 subtitle: Siempre hay que empezar por algún lado
-slug: "/blog/hola-mundo"
+permalink: /blog/hola-mundo
 thumbnail: "/img/hello_world.jpeg"
 ---
 
