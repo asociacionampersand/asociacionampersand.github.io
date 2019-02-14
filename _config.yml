@@ -15,7 +15,6 @@ baseurl: ""
 
 # Name of website
 title: Asociación Ampersand
-locale: "es-ES"
 
 # Short description of your site
 description: Somos jóvenes que quieren explorar otras ideas, otros puntos de vista, otras culturas. ¿Te vienes?
@@ -157,6 +156,7 @@ title-separator: "|"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
+locale: "es-ES"
 timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
