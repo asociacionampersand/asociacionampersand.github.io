@@ -18,7 +18,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Publicado el {{% include translated-date.html date=post.date format="%-d de %B de %Y" lang="es" %}}
+      Publicado el {{ page.date | date: "%-d %-B %Y" }}
     </p>
 
     <div class="post-entry-container">
