@@ -36,7 +36,7 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Publicado el {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{{ page.date | date: "%-d" }} de
 {% case m %}
   {% when '1' %}enero
   {% when '2' %}febrero
@@ -51,7 +51,7 @@
   {% when '11' %}noviembre
   {% when '12' %}diciembre
 {% endcase %}
-{{ page.date | date: "%Y" }}</span>
+de {{ page.date | date: "%Y" }}</span>
 		  {% endif %}
         </div>
       </div>
@@ -77,7 +77,7 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Publicado el {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{{ page.date | date: "%-d" }} de
 {% case m %}
   {% when '1' %}enero
   {% when '2' %}febrero
@@ -92,7 +92,7 @@
   {% when '11' %}noviembre
   {% when '12' %}diciembre
 {% endcase %}
-{{ page.date | date: "%Y" }}</span>
+de {{ page.date | date: "%Y" }}</span>
 		  {% endif %}
         </div>
       </div>
