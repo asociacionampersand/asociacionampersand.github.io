@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 title: Asociación Ampersand
+locale: "es-ES"
 
 # Short description of your site
 description: Somos jóvenes que quieren explorar otras ideas, otros puntos de vista, otras culturas. ¿Te vienes?
