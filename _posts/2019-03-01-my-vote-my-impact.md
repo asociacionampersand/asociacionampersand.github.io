@@ -3,10 +3,8 @@ layout: post
 published: true
 title: En el corazón de Europa
 subtitle: >-
-  Asistimos al seminario "My vote, my Europe" para conocer las bambalinas de las
-  próximas elecciones europeas
+  Asistimos al seminario "My vote, my Europe" para conocer las bambalinas de las próximas elecciones europeas
 date: '2019-03-01'
-bigimgs: null
 share-img: /img/posts/MyVoteMyImpact_001_LOW.jpg
 permalink: /blog/my-vote-my-impact/
 tags:
@@ -15,7 +13,6 @@ tags:
   - Luxemburgo
   - Juventud
 bigimg: /img/posts/MyVoteMyImpact_001_LOW.jpg
-image: 'https://asociacionampersand.github.io/img/posts/MyVoteMyImpact_001_LOW.jpg'
 ---
 ### La semana pasada, viajamos a Luxemburgo para participar en el seminario _My Vote, My Impact: Europe behind the scenes_. Durante 5 días, convivimos con otros jóvenes representantes de organizaciones a lo ancho y largo de Europa para saber cómo acercar mejor la Unión Europea a los jóvenes e incentivar el voto en las próximas elecciones europeas del 26 de mayo.
 
