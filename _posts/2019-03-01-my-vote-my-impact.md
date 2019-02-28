@@ -8,7 +8,7 @@ subtitle: >-
 date: '2019-03-01'
 bigimgs: null
 share-img: /img/posts/MyVoteMyImpact_001_LOW.jpg
-permalinks: /blog/my-vote-my-impact/
+permalink: /blog/my-vote-my-impact/
 tags:
   - Actividades
   - Erasmus+
