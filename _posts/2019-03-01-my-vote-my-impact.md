@@ -7,7 +7,7 @@ subtitle: >-
   próximas elecciones europeas
 date: '2019-03-01'
 share-img: 'https://asociacionampersand.github.io/img/posts/MyVoteMyImpact_084_LOW.jpg'
-excerpt: 'En el seminario _My Vote, My Impact: Europe behind the scenes_ conocimos cómo acercar mejor la Unión Europea a los jóvenes e incentivar el voto en las próximas elecciones europeas del 26 de mayo'
+excerpt: 'En el seminario My Vote, My Impact: Europe behind the scenes conocimos cómo acercar mejor la Unión Europea a los jóvenes e incentivar el voto en las próximas elecciones europeas del 26 de mayo'
 permalink: /blog/my-vote-my-impact/
 tags:
   - Actividades
