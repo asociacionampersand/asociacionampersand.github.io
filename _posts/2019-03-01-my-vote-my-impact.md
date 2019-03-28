@@ -3,9 +3,10 @@ layout: post
 published: true
 title: En el corazón de Europa
 subtitle: >-
-  Asistimos al seminario "My vote, my Europe" para conocer las bambalinas de las próximas elecciones europeas
+  Asistimos al seminario "My vote, my Europe" para conocer las bambalinas de las
+  próximas elecciones europeas
 date: '2019-03-01'
-share-img: /img/posts/MyVoteMyImpact_001_LOW.jpg
+share-img: 'https://asociacionampersand.github.io/img/posts/MyVoteMyImpact_084_LOW.jpg'
 permalink: /blog/my-vote-my-impact/
 tags:
   - Actividades
@@ -45,4 +46,3 @@ Antes de finalizar, nos juntamos por equipos para diseñar estrategias de comuni
 En Ampersand creemos en la importancia de este tipo de proyectos. No sólo incentivan una ciudadanía activa y crítica, que conoce el funcionamiento democrático, sino que ayudan a construir un sentimiento europeo. 
 
 #### Este ha sido nuestro primer proyecto, pero queremos seguir participando en más como este. ¿Te animas? [¡Contáctanos!](https://asociacionampersand.github.io/contacto)
-
