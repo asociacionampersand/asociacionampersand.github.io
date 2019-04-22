@@ -3,10 +3,7 @@ layout: post
 published: true
 title: Se buscan participantes para intercambio en Países Bajos
 share-img: 'https://asociacionampersand.github.io/img/big-imgs/INspire%20cover%20pic.jpg'
-excerpt: >-
-  En el seminario My Vote, My Impact: Europe behind the scenes conocimos cómo
-  acercar mejor la Unión Europea a los jóvenes e incentivar el voto en las
-  próximas elecciones europeas del 26 de mayo
+excerpt: >- La Asociación Ampersand busca participantes para el intercambio de jóvenes INspire, un proyecto que tendrá lugar entre mayo y diciembre de 2019
 permalink: /blog/participantes-intercambio-inspire/
 tags:
   - Actividades
