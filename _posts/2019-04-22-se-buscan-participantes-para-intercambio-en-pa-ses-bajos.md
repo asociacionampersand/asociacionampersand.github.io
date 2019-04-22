@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Se buscan participantes para intercambio en Países Bajos
 share-img: 'https://asociacionampersand.github.io/img/big-imgs/INspire%20cover%20pic.jpg'
-excerpt: >- La Asociación Ampersand busca participantes para el intercambio de jóvenes INspire, un proyecto que tendrá lugar entre mayo y diciembre de 2019
+excerpt: La Asociación Ampersand busca participantes para el intercambio de jóvenes INspire, un proyecto que tendrá lugar entre mayo y diciembre de 2019
 permalink: /blog/participantes-intercambio-inspire/
 tags:
   - Actividades
