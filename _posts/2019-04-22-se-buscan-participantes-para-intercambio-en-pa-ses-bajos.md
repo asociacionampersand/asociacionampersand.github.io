@@ -3,7 +3,9 @@ layout: post
 published: true
 title: Se buscan participantes para intercambio en Países Bajos
 share-img: 'https://asociacionampersand.github.io/img/big-imgs/INspire%20cover%20pic.jpg'
-excerpt: La Asociación Ampersand busca participantes para el intercambio de jóvenes INspire, un proyecto que tendrá lugar entre mayo y diciembre de 2019
+excerpt: >-
+  La Asociación Ampersand busca participantes para el intercambio de jóvenes
+  INspire, un proyecto que tendrá lugar entre mayo y diciembre de 2019
 permalink: /blog/participantes-intercambio-inspire/
 tags:
   - Actividades
@@ -18,8 +20,8 @@ date: '2019-04-22'
 ---
 Empezamos a buscar a nuestros participantes para el intercambio de jóvenes INspire. 
 
-En este momento, queremos encontrar a 1 participante, entre 18 y 30 años, que pueda asistir tanto a la visita de preparación (10-12 de mayo) como al intercambio (25 julio - 4 agosto). 
-Daos prisa: las inscripciones están abiertas hasta el 1 de mayo.
+En este momento, queremos encontrar a 4 participantes, entre 18 y 30 años, que puedan asistir ~~tanto a la visita de preparación (10-12 de mayo) como~~ al intercambio (25 julio - 4 agosto). 
+Daos prisa: las inscripciones están abiertas hasta el 1 de ~~mayo~~junio.
 
 ### ¿Qué es INspire?
 
@@ -32,13 +34,13 @@ El programa de actividades está basado en el aprendizaje experiencial, lo que p
 Tienes más información en [este documento](http://bit.ly/INspireINFOLETTER)
 
 ### ¿Cuándo? 
-El proyecto comienza ya, **con una visita de planificación entre los días 9 y 13 de mayo**, contando los días de viaje. Después, una preparación se desarollará _online_ durante los meses junio y julio. **La actividad principal tendrá lugar entre el 24 de julio y el 5 de agosto**, contando también los días necesarios para llegar hasta Países Bajos. Finalmente, entre septiembre y diciembre se difundirán los resultados a nivel local.
+El proyecto comienza ya, **con una visita de planificación entre los días 10 y 13 de mayo**, contando los días de viaje. Después, una preparación se desarollará _online_ durante los meses junio y julio. **La actividad principal tendrá lugar entre el 25 de julio y el 5 de agosto**, contando también los días necesarios para llegar hasta Países Bajos. Finalmente, entre septiembre y diciembre se difundirán los resultados a nivel local.
 
 ### ¿Cuánto?
 Prácticamente nada. Los viajes que realices están cubiertos por el programa Erasmus+, así como la manutención y el alojamiento. Sólo tendrás que pagar una pequeña tasa de participación a la entidad organizadora del proyecto.
 
 ### ¿Cómo?
-Rellena este [formulario de inscripción](http://bit.ly/INspireApply). **¡Date prisa! La fecha límite es el 1 de mayo.** Si eres seleccionado, recibirás un correo de confirmación tras esa feha.
+Rellena este [formulario de inscripción](http://bit.ly/INspireApply). **¡Date prisa! La fecha límite es el 1 de ~~mayo~~junio.** Si eres seleccionado, recibirás un correo de confirmación tras esa feha.
 
 
 
