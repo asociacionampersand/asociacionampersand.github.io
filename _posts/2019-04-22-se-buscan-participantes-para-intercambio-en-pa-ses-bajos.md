@@ -20,8 +20,8 @@ date: '2019-04-22'
 ---
 Empezamos a buscar a nuestros participantes para el intercambio de jóvenes INspire. 
 
-En este momento, queremos encontrar a 4 participantes, entre 18 y 30 años, que puedan asistir ~~tanto a la visita de preparación (10-12 de mayo) como~~ al intercambio (25 julio - 4 agosto). 
-Daos prisa: las inscripciones están abiertas hasta el 1 de ~~mayo~~junio.
+En este momento, queremos encontrar a 4 participantes, entre 18 y 30 años, que puedan asistir ~~tanto a la visita de preparación (10-12 de mayo) como~~ al intercambio de jóvenes (25 julio - 5 agosto). 
+Daos prisa: las inscripciones están abiertas hasta el 1 de ~~mayo~~ junio.
 
 ### ¿Qué es INspire?
 
@@ -40,7 +40,7 @@ El proyecto comienza ya, **con una visita de planificación entre los días 10 y
 Prácticamente nada. Los viajes que realices están cubiertos por el programa Erasmus+, así como la manutención y el alojamiento. Sólo tendrás que pagar una pequeña tasa de participación a la entidad organizadora del proyecto.
 
 ### ¿Cómo?
-Rellena este [formulario de inscripción](http://bit.ly/INspireApply). **¡Date prisa! La fecha límite es el 1 de ~~mayo~~junio.** Si eres seleccionado, recibirás un correo de confirmación tras esa feha.
+Rellena este [formulario de inscripción](http://bit.ly/INspireApply). **¡Date prisa! La fecha límite es el 1 de ~~mayo~~ junio.** Si eres seleccionado, recibirás un correo de confirmación tras esa feha.
 
 
 
