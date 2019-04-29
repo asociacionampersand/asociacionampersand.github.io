@@ -20,7 +20,7 @@ date: '2019-04-22'
 ---
 Empezamos a buscar a nuestros participantes para el intercambio de jóvenes INspire. 
 
-En este momento, queremos encontrar a 4 participantes, entre 18 y 30 años, que puedan asistir ~~tanto a la visita de preparación (10-12 de mayo) como~~ al intercambio de jóvenes (25 julio - 5 agosto). 
+En este momento, queremos encontrar a 3 participantes, entre 18 y 30 años, que puedan asistir ~~tanto a la visita de preparación (10-12 de mayo) como~~ al intercambio de jóvenes (25 julio - 5 agosto). 
 Daos prisa: las inscripciones están abiertas hasta el 1 de ~~mayo~~ junio.
 
 ### ¿Qué es INspire?
