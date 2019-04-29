@@ -40,7 +40,7 @@ El proyecto comienza ya, **con una visita de planificación entre los días 10 y
 Prácticamente nada. Los viajes que realices están cubiertos por el programa Erasmus+, así como la manutención y el alojamiento. Sólo tendrás que pagar una pequeña tasa de participación a la entidad organizadora del proyecto.
 
 ### ¿Cómo?
-Rellena este [formulario de inscripción](http://bit.ly/INspireApply). **¡Date prisa! La fecha límite es el 1 de ~~mayo~~ junio.** Si eres seleccionado, recibirás un correo de confirmación tras esa feha.
+Rellena este [formulario de inscripción](http://bit.ly/INspireApply). **¡Date prisa! La fecha límite es el 1 de ~~mayo~~ junio.** Si eres seleccionado, recibirás un correo de confirmación tras esa fecha.
 
 
 
