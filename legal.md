@@ -1,5 +1,4 @@
 ---
-Title: Aviso legal
 layout: page
 published: true
 title: Aviso legal
