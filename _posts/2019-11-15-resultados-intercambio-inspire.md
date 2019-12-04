@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ¿Y qué pasó en INspire?
 date: '2019-11-15'
 share-img: 'https://asociacionampersand.github.io/img/big-imgs/INspire%20cover%20pic.jpg'
@@ -16,9 +16,9 @@ tags:
 bigimg: /img/big-imgs/INspire%20cover%20pic.jpg
 subtitle: 'En INspire pasaron muchas cosas, pero tenemos un buen resumen para que lo veas'
 ---
-El pasado verano, Ampersand participó en INspire, un intercambio juvenil, financiado por Erasmus+, para explorar y expandir la creatividad en personas parte de la comunidad LGBT+.
+El pasado verano, Ampersand participó en INspire, un intercambio juvenil organizado por [Olde Vechte Foundation](https://oldevechte.com/) y financiado por el programa Erasmus+ de la Comisión Europea, para explorar y expandir la creatividad en personas parte de la comunidad LGBT+.
 
-INspire fue una invitación para que los y las participantes se descubrieran y expresaran, mandando al mundo un mensaje con sus pensamientos a través del arte. Entre el 25 de julio y el 5 de agosto, 4 personas representantes de nuestra asociación disfrutaron de una experiencia inolvidable.
+INspire fue una invitación para que los y las participantes se descubrieran y expresaran, mandando al mundo un mensaje con sus pensamientos a través del arte. Entre el 25 de julio y el 5 de agosto, 4 personas representantes de nuestra asociación disfrutaron en Ommen (Países Bajos) de una experiencia inolvidable.
 
 El programa de actividades estuvo basado en el aprendizaje experiencial, lo que permite una máxima participación e interacción. De este modo, todas las personas allí se inmergieron en la dinámica, posibilitando la creación de vínculos más fuertes y profundos. 
 
