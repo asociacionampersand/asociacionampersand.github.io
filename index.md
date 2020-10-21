@@ -5,7 +5,7 @@ bigimg: "/img/big-imgs/portadaweb.jpg"
 use-site-title: true
 ---
 
-### Entre amigos: así comenzamos
+### Entre amigos: así comenzamos
 
 Nuestra asociación comenzó como un grupo de amigos que se juntaban de manera informal para desarrollar nuestras ideas, aficiones e intereses. Como vimos que, juntos, se podían hacer muchas cosas, decidimos constituirnos como asociación en diciembre de 2018. Nuestra sede está en Madrid, España.
 
