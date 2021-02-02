@@ -33,6 +33,8 @@
 
     if(readCookie('cookie-notice-dismissed')=='true') {
        {% include ga/analytics.js %}
+       {% include gtm_body.html %}
+       {% include gtm_head.html %}
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
